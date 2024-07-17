@@ -1,0 +1,8 @@
+2024-04-12 15:40:12,473 - Starting training:
+                Epochs:                10
+                Batch size:            20
+                Initial learning rate: 1e-06
+                Training size:         48
+                Validation size:       12
+                Device:                cuda
+                
