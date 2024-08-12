@@ -8,7 +8,7 @@ from tqdm import tqdm
 from utils.quality import FoM
 from utils.genmatrices import genAj
 
-##############################################################################
+############################################################################## un cambio aca
 @dataclass
 class TrainingConfig:
     
