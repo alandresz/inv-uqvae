@@ -1,3 +1,5 @@
+### v0.1
+
 from dataclasses import dataclass
 import numpy as np
 #import scipy as sp
@@ -8,7 +10,7 @@ from tqdm import tqdm
 from utils.quality import FoM
 from utils.genmatrices import genAj
 
-############################################################################## un cambio aca #### otro cambio aca
+#########################
 @dataclass
 class TrainingConfig:
     
