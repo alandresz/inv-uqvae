@@ -1,4 +1,4 @@
-### v0.101
+### v0.102
 
 from dataclasses import dataclass
 import numpy as np
