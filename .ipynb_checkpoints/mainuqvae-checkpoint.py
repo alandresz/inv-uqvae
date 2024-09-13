@@ -10,7 +10,11 @@ from tqdm import tqdm
 from utils.quality import FoM
 from utils.genmatrices import genAj
 
+<<<<<<< HEAD
 #########################
+=======
+########################## test changes 0.1 #####
+>>>>>>> cfbe57e644fac469c42528914a5c59fa5aff5613
 @dataclass
 class TrainingConfig:
     
